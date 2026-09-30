@@ -1,0 +1,4 @@
+User A: Hey, are you coming to the club meeting today?
+User B: Yeah, after class. What time is it?
+User A: 5 PM. We need to plan for the tech fest.
+User B: Got it, see you there.

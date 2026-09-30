@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+temp_audio.wav
+temp_video.mp4
+output_emotion_video.mp4
+.deepface/
+.DS_Store
+.git_old/
+
+# Training checkpoints and large files exceeding GitHub's 100MB limit
+TRAINING/electra_model/
+*.pt
+*.safetensors
+*.bin
+TRAINING/Suicide_Detection.csv
